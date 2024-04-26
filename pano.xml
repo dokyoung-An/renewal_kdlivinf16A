@@ -235,5 +235,5 @@
     </animationsequences>
   </masternode>
   <map height="900" index="0" crispedges="0" transparent="1" id="FloorPlan01" type="file" width="900" tileformat="png" zoomlevels="1" bgcolor="rgba(0, 0, 0, 0)" title="" floorplannorth="0"/>
-  <map height="900" index="1" crispedges="0" transparent="1" id="FloorPlan02" type="file" width="900" tileformat="jpg" zoomlevels="1" bgcolor="rgba(0, 0, 0, 0)" title="" floorplannorth="0"/>
+  <map height="900" index="1" crispedges="0" transparent="1" id="FloorPlan02" type="file" width="900" tileformat="png" zoomlevels="1" bgcolor="rgba(0, 0, 0, 0)" title="" floorplannorth="0"/>
 </tour>
